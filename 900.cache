@@ -2,14 +2,14 @@ CACHE MANIFEST
 # Leeful 
 # 26/12/2021-11:27:00.78 
 
-module\chain.mjs
-module\constants.mjs
-module\int64.mjs
-module\mem.mjs
-module\memtools.mjs
-module\offset.mjs
-module\rw.mjs
-module\utils.mjs
+\module\chain.mjs
+\module\constants.mjs
+\module\int64.mjs
+\module\mem.mjs
+\module\memtools.mjs
+\module\offset.mjs
+\module\rw.mjs
+\module\utils.mjs
 index.html
 cache.html
 alert.mjs
